@@ -7,7 +7,7 @@ body {
 }
 
 header {
-    border-bottom: green;
+    border-bottom: red;
     padding: 20px;
     font-size: 32px;
     color: blue;
