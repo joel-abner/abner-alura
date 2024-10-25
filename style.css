@@ -7,10 +7,10 @@ body {
 }
 
 header {
-    border-bottom: red;
+    border-bottom: black;
     padding: 20px;
     font-size: 32px;
-    color: blue;
+    color: red;
 }
 
 section {
